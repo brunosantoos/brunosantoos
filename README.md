@@ -20,10 +20,8 @@
 ![NodeJS](https://img.shields.io/badge/NODE-JS-%23563D7C.svg?style=flat&logo=nodejs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/typescript-323330.svg?&style=flat&logo=typescript&logoColor=%23F7DF1E)&nbsp;
 
-<div align="start">
-  <img src="https://github-readme-stats.vercel.app/api?username=brunosantoos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-</div>
 
+ ![Snake animation](https://github.com/brunosantoos/brunosantoos/blob/output/github-contribution-grid-snake.svg)
 
 
 
